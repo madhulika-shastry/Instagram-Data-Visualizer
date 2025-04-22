@@ -1,0 +1,10 @@
+name: tiktokstars
+title:
+username: mshastry
+account: mshastry
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14580865
+bundleId: 10158116
+url: https://mshastry.shinyapps.io/tiktokstars/
+version: 1
