@@ -1,0 +1,10 @@
+name: instagram-data-visualizer
+title:
+username: mshastry
+account: mshastry
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14586662
+bundleId: 10160795
+url: https://mshastry.shinyapps.io/instagram-data-visualizer/
+version: 1
